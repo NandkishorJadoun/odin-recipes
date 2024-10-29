@@ -1,4 +1,9 @@
 body{
     color: white;
-    background-color: black;
+    background-color: rgb(48, 48, 48);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipes{
+    color: lightblue;
 }
