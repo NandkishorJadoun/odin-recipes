@@ -5,5 +5,15 @@ body{
 }
 
 .recipes{
-    color: lightblue;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 100px;
+    background-color: rgba(0, 0, 0, 0.205);
+    padding: 5px 8px;
+    border: 1px dashed rgba(255, 255, 255, 0.312);
+    border-radius: 5px;
+}
+#list{
+    margin-bottom: 20px;
+    
 }
